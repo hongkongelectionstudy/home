@@ -12,7 +12,7 @@ title: Home
 
 ![image](/images/pink.png)
 
-The codebook and data of the Hong Kong Election Study are publicly available. Anyone can download them from [Dataverse](https://doi.org/10.7910/DVN/OXUDPG).
+The codebook and data of the Hong Kong Election Study are publicly available. Anyone can download them from [Harvard Dataverse](https://doi.org/10.7910/DVN/OXUDPG).
 
 ## Terms of Use
 
