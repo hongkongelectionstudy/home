@@ -9,7 +9,7 @@ permalink: /about/
 ### Introduction
 The Hong Kong Election Study (HKES) embarked in 2015, with funding support from the Hong Kong University Grants Committee (GRF Ref. No.: 14615915 and GRF Ref. No.: 15605519).  The mission of the project is to systematically collect survey data for empirical study of voting behavior, civic engagement and general political attitudes of the Hong Kong population.  Its goal is to provide continual, objective public opinion data based on theory-driven design and non-partisan instrument to answer important substantive questions pertaining to the voting intention, party support, evaluations of governance and other political attitudes.  
 
-## Development timeline
+### Development timeline
 The HKES survey series started in 2015 targeting the District Council elections. The project adopts new internet survey technology to interview respondents from pre-selected panels.  Each survey interviews a representative sample of approximately 2,000 respondents.  We commissioned international survey companies to conduct the surveys using instruments designed and pretested by the HKES team.   
 
 ### Instruments
