@@ -10,6 +10,8 @@ If you have used the HKES data in your research, please let us know by email: [h
 
 * Chan Ka-Ming and Ng Ka Lun. 2022. ["Elections with candidate filtering and two mechanisms of demobilization effect: the prologue to Hong Kong’s authoritarian turn."](https://www.tandfonline.com/doi/full/10.1080/17457289.2022.2051150), *Journal of Elections, Public Opinion and Parties* 
 
+* Mathew Y. H. Wong and Stan Hok-Wui Wong. 2022. ["Income Inequality and Political Participation: A District-Level Analysis of Hong Kong Elections](https://doi.org/10.1007/s11205-021-02863-9), *Social Indicators Research*
+
 * Stan Hok-Wui Wong, Kelvin Chun-Man Chan, Karl Ho, and Harold D. Clarke. Accepted. "Does Loyalty Discourage Exit? Evidence from Post-2020 Hong Kong", *Journal of Asian and African Studies*
 
 * Stan Hok-Wui Wong and Kelvin Chun-Man Chan. 2021. ["The Impact of Pre-Election Protests in Electoral Autocracies: The Case of Hong Kong’s Anti-ELAB Movement"](https://www.worldscientific.com/doi/10.1142/S1013251121500107), *Issues & Studies*
