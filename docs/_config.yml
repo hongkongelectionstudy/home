@@ -21,18 +21,14 @@
 title: Hong Kong Election Study
 email: hkelectionstudy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Hong Kong Election Study is an academic project aimming to study electoral behaviors in Hong Kong.
+  The HKES is an academic project aimming to study electoral behaviors in Hong Kong.
   Copyright © 2022 HKES
 #domain: hongkongelectionstudy.github.io
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 tagline: An official site for the Hong Kong Election Study
 logo: /images/logo.png
-#author: Stan Hok-Wui Wong
-#author.url: stanhwwong.github.io/stanhwwong
-#  github_username: stanhwwong
-#  url: stanhwwong.github.io/stanhwwong
-github_username:  hongkongelectionstudy
+#github_username:  hongkongelectionstudy
 
 # Build settings
 theme: minima
